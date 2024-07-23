@@ -1,0 +1,15 @@
+﻿@page
+@model CokeWikiDemo.Pages.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>@Model.Article.Topic</h1>
+
+<markdown markdown="@Model.Article.Content"></markdown>
+
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Article.Topic">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

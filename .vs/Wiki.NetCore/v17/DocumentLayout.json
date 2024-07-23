@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming Outputs\\OpenCV\\CokeWiki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49D145F0-73C1-4952-AA86-61E2C6132188}|CokeWikiDemo\\Wiki.NetCore.Demo.csproj|d:\\programming outputs\\opencv\\cokewiki\\cokewikidemo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49D145F0-73C1-4952-AA86-61E2C6132188}|CokeWikiDemo\\Wiki.NetCore.Demo.csproj|solutionrelative:cokewikidemo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D145F0-73C1-4952-AA86-61E2C6132188}|CokeWikiDemo\\CokeWikiDemo.csproj|d:\\programming outputs\\opencv\\cokewiki\\cokewikidemo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49D145F0-73C1-4952-AA86-61E2C6132188}|CokeWikiDemo\\CokeWikiDemo.csproj|solutionrelative:cokewikidemo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D145F0-73C1-4952-AA86-61E2C6132188}|CokeWikiDemo\\CokeWikiDemo.csproj|d:\\programming outputs\\opencv\\cokewiki\\cokewikidemo\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49D145F0-73C1-4952-AA86-61E2C6132188}|CokeWikiDemo\\CokeWikiDemo.csproj|solutionrelative:cokewikidemo\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D145F0-73C1-4952-AA86-61E2C6132188}|CokeWikiDemo\\CokeWikiDemo.csproj|d:\\programming outputs\\opencv\\cokewiki\\cokewikidemo\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D145F0-73C1-4952-AA86-61E2C6132188}|CokeWikiDemo\\CokeWikiDemo.csproj|solutionrelative:cokewikidemo\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D145F0-73C1-4952-AA86-61E2C6132188}|CokeWikiDemo\\CokeWikiDemo.csproj|d:\\programming outputs\\opencv\\cokewiki\\cokewikidemo\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49D145F0-73C1-4952-AA86-61E2C6132188}|CokeWikiDemo\\CokeWikiDemo.csproj|solutionrelative:cokewikidemo\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D145F0-73C1-4952-AA86-61E2C6132188}|CokeWikiDemo\\CokeWikiDemo.csproj|d:\\programming outputs\\opencv\\cokewiki\\cokewikidemo\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49D145F0-73C1-4952-AA86-61E2C6132188}|CokeWikiDemo\\CokeWikiDemo.csproj|solutionrelative:cokewikidemo\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D145F0-73C1-4952-AA86-61E2C6132188}|CokeWikiDemo\\CokeWikiDemo.csproj|d:\\programming outputs\\opencv\\cokewiki\\cokewikidemo\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49D145F0-73C1-4952-AA86-61E2C6132188}|CokeWikiDemo\\CokeWikiDemo.csproj|solutionrelative:cokewikidemo\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D145F0-73C1-4952-AA86-61E2C6132188}|CokeWikiDemo\\CokeWikiDemo.csproj|d:\\programming outputs\\opencv\\cokewiki\\cokewikidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D145F0-73C1-4952-AA86-61E2C6132188}|CokeWikiDemo\\CokeWikiDemo.csproj|solutionrelative:cokewikidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D145F0-73C1-4952-AA86-61E2C6132188}|CokeWikiDemo\\CokeWikiDemo.csproj|d:\\programming outputs\\opencv\\cokewiki\\cokewikidemo\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49D145F0-73C1-4952-AA86-61E2C6132188}|CokeWikiDemo\\CokeWikiDemo.csproj|solutionrelative:cokewikidemo\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Programming Outputs\\OpenCV\\CokeWiki\\CokeWikiDemo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CokeWikiDemo\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Programming Outputs\\OpenCV\\CokeWiki\\CokeWikiDemo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CokeWikiDemo\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T12:43:46.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\Programming Outputs\\OpenCV\\CokeWiki\\CokeWikiDemo\\Pages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "CokeWikiDemo\\Pages\\Edit.cshtml.cs",
+              "ToolTip": "D:\\Programming Outputs\\OpenCV\\CokeWiki\\CokeWikiDemo\\Pages\\Edit.cshtml.cs",
+              "RelativeToolTip": "CokeWikiDemo\\Pages\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwCYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:37:30.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming Outputs\\OpenCV\\CokeWiki\\CokeWikiDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CokeWikiDemo\\Program.cs",
+              "ToolTip": "D:\\Programming Outputs\\OpenCV\\CokeWiki\\CokeWikiDemo\\Program.cs",
+              "RelativeToolTip": "CokeWikiDemo\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:24:24.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Programming Outputs\\OpenCV\\CokeWiki\\CokeWikiDemo\\Pages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CokeWikiDemo\\Pages\\Edit.cshtml",
+              "ToolTip": "D:\\Programming Outputs\\OpenCV\\CokeWiki\\CokeWikiDemo\\Pages\\Edit.cshtml",
+              "RelativeToolTip": "CokeWikiDemo\\Pages\\Edit.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T12:16:18.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Programming Outputs\\OpenCV\\CokeWiki\\CokeWikiDemo\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "CokeWikiDemo\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\Programming Outputs\\OpenCV\\CokeWiki\\CokeWikiDemo\\Pages\\Error.cshtml",
+              "RelativeToolTip": "CokeWikiDemo\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T12:16:08.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Programming Outputs\\OpenCV\\CokeWiki\\CokeWikiDemo\\Pages\\Details.cshtml",
+              "RelativeDocumentMoniker": "CokeWikiDemo\\Pages\\Details.cshtml",
+              "ToolTip": "D:\\Programming Outputs\\OpenCV\\CokeWiki\\CokeWikiDemo\\Pages\\Details.cshtml",
+              "RelativeToolTip": "CokeWikiDemo\\Pages\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T12:07:13.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Programming Outputs\\OpenCV\\CokeWiki\\CokeWikiDemo\\Pages\\Create.cshtml",
+              "RelativeDocumentMoniker": "CokeWikiDemo\\Pages\\Create.cshtml",
+              "ToolTip": "D:\\Programming Outputs\\OpenCV\\CokeWiki\\CokeWikiDemo\\Pages\\Create.cshtml",
+              "RelativeToolTip": "CokeWikiDemo\\Pages\\Create.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T11:54:21.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Programming Outputs\\OpenCV\\CokeWiki\\CokeWikiDemo\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "CokeWikiDemo\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Programming Outputs\\OpenCV\\CokeWiki\\CokeWikiDemo\\Pages\\Index.cshtml",
+              "RelativeToolTip": "CokeWikiDemo\\Pages\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T11:53:50.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Programming Outputs\\OpenCV\\CokeWiki\\CokeWikiDemo\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CokeWikiDemo\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Programming Outputs\\OpenCV\\CokeWiki\\CokeWikiDemo\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "CokeWikiDemo\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T09:18:00.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
