@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "simplemde": "^1.11.2"
+  },
+  "name": "cokewiki",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
